@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sinver",
+      "score": 100
+    },
+    {
+      "id": 1,
+      "name": "Sinver",
+      "score": 100
+    },
+
+    {
+      "id": 1,
+      "name": "Sinver",
+      "score": 100
+    },
+
+    {
+      "id": 1,
+      "name": "Sinver",
+      "score": 100
+    },
+
+    {
+      "id": 1,
+      "name": "Sinver",
+      "score": 100
+    }
+  ]
+}

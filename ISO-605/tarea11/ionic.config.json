@@ -1,0 +1,7 @@
+{
+  "name": "tarea11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
