@@ -14,17 +14,17 @@ Confeccionar un programa que lea N pares de datos, cada par de datos corresponde
 ## Programa # 2
 
 Realizar un programa que lea los lados de n triángulos, e informar:
-(a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)
-(b) Cantidad de triángulos de cada tipo.
-(c) Tipo de triángulo que posee menor cantidad.
+(A) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)
+(B) Cantidad de triángulos de cada tipo.
+(C) Tipo de triángulo que posee menor cantidad.
 
 
 ## Programa # 3
 
 Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
-(a) La cantidad de valores ingresados negativos.
-(b) La cantidad de valores ingresados positivos.
-(c) La cantidad de múltiplos de 15.
-(d) El valor acumulado de los números ingresados que son pares.
+(A) La cantidad de valores ingresados negativos.
+(B) La cantidad de valores ingresados positivos.
+(C) La cantidad de múltiplos de 15.
+(D) El valor acumulado de los números ingresados que son pares.
 
 
